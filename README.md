@@ -48,8 +48,8 @@ Summerschool programmeren 4 - 8 juli 2016
 ==Assignment== 
 * http://cdn.cs50.net/ap/1516/problems/1/4/1-4.html
 
-==Extra information about loops==
-* Tommy's short: https://www.youtube.com/v/HHmiHx7GGLE.
+==Recap loops==
+* David's lecture: https://www.youtube.com/v/oO0jvfSsLCg&amp;start=1150&amp;end=1253.
 * Doug's section: https://www.youtube.com/watch?v=rBEwCpvwdPY.
 
 ## 8 juli: 
