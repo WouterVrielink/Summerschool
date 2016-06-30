@@ -37,3 +37,20 @@ Summerschool programmeren 4 - 8 juli 2016
 
 ==Assignment (Fahrenheit)== 
 * http://cdn.cs50.net/ap/1516/problems/1/3/1-3.html
+
+## 7 juli: Skittles
+==Assignment Objectives== 
+* Learn about pseudorandom numbers.
+* Learn how to use online references to gain insight into using unfamiliar functions.
+* Continue experimenting with CS50 IDE.
+* Build your first game in C.
+
+==Assignment== 
+* http://cdn.cs50.net/ap/1516/problems/1/4/1-4.html
+
+==Extra information about loops==
+* David's lecture: https://www.youtube.com/v/oO0jvfSsLCg&amp;start=1150&amp;end=1253.
+* Tommy's short: https://www.youtube.com/v/HHmiHx7GGLE.
+* Doug's section: https://www.youtube.com/watch?v=rBEwCpvwdPY.
+
+## 8 juli: 
