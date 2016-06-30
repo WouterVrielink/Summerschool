@@ -20,3 +20,20 @@ Summerschool programmeren 4 - 8 juli 2016
 
 ==Assignment== 
 * http://cdn.cs50.net/ap/1516/problems/1/1/1-1.html
+
+## 6 juli: Hello & Fahrenheit
+==Assignment Objectives (Hello)== 
+* Set up your CS50 programming environment.
+* Get comfortable with Linux.
+* Solve your first problem in C.
+
+==Assignment (Hello)== 
+* http://cdn.cs50.net/ap/1516/problems/1/2/1-2.html
+
+==Assignment Objectives (Fahrenheit)== 
+* Use variables and perform mathematical manipulations.
+* Continue experimenting with CS50 IDE.
+* Build your first utility program in C.
+
+==Assignment (Fahrenheit)== 
+* http://cdn.cs50.net/ap/1516/problems/1/3/1-3.html
