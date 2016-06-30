@@ -1,5 +1,5 @@
 # Summerschool
-Summerschool programmeren 4 - 8 juli 2016
+Summerschool programmeren 4 - 8 juli 2016.
 
 ## 4 juli: Scratch
 ==Assignment Objectives== 
