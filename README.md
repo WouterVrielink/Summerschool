@@ -52,4 +52,26 @@ Summerschool programmeren 4 - 8 juli 2016
 * David's lecture: https://www.youtube.com/v/oO0jvfSsLCg&amp;start=1150&amp;end=1253.
 * Doug's section: https://www.youtube.com/watch?v=rBEwCpvwdPY.
 
-## 8 juli: 
+## 8 juli: Mario
+==Assignment Objectives== 
+* Get further practice with loops and taking user input.
+* Use terminal printing to communicate information to a user graphically.
+
+==Assignment== 
+* http://cdn.cs50.net/ap/1516/problems/1/8/1-8.html
+
+## Extra: Greedy & Credit
+==Assignment Objectives (Greedy)== 
+* Use algorithms to solve problems.
+* Experiment with different designs in solving a problem.
+
+==Assignment (Greedy)== 
+* http://cdn.cs50.net/ap/1516/problems/1/5/1-5.html
+
+==Assignment Objectives (Credit)== 
+* Use algorithms to solve a problem.
+* Analyze the pros and cons of different designs.
+* Learn about real-world encoding phenomena.
+
+==Assignment (Credit)== 
+* http://cdn.cs50.net/ap/1516/problems/1/9/1-9.html
