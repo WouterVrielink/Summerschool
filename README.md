@@ -1,6 +1,9 @@
 # Summerschool
 Summerschool programmeren 4 - 8 juli 2016.
 
+# STYLE GUIDE VOOR C
+* https://2hs.mprog.nl/resources/style-guide
+
 ## 4 juli: Scratch
 ==Assignment Objectives== 
 * Understand how information can be represented digitally.
