@@ -41,6 +41,9 @@ Summerschool programmeren 4 - 8 juli 2016.
 ==Assignment (Fahrenheit)== 
 * http://cdn.cs50.net/ap/1516/problems/1/3/1-3.html
 
+# SLIDES COLLEGE JAAP
+* https://github.com/WouterVrielink/Summerschool/blob/master/Werkcollege%20Summerschool.pptx
+
 ## 7 juli: Skittles
 ==Assignment Objectives== 
 * Learn about pseudorandom numbers.
