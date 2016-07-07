@@ -81,3 +81,23 @@ Summerschool programmeren 4 - 8 juli 2016.
 
 ==Assignment (Credit)== 
 * http://cdn.cs50.net/ap/1516/problems/1/9/1-9.html
+
+## Extra uitdaging! Sudoku
+==Assignment Objectives== 
+* Learn to use ncurses, a rudimentary library for GUIs.
+* Design and implement larger pieces of software.
+* Spend time reading and understanding a large distro.
+* Think deliberately about design.
+* Become a Sudoku apprentice.
+
+==Assignment== 
+* http://cdn.cs50.net/ap/1516/problems/4/0/4-0.html
+
+==Assignment Objectives== 
+* Continue to use ncurses, a rudimentary library for GUIs.
+* Design and implement larger pieces of software.
+* Think deliberately about design.
+* Become a Sudoku master.
+
+==Assignment== 
+* http://cdn.cs50.net/ap/1516/problems/4/1/4-1.html
